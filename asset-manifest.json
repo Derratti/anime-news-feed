@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/anime-news-feed/static/css/main.21d83c50.css",
-    "main.js": "/anime-news-feed/static/js/main.4fd031e4.js",
+    "main.css": "/anime-news-feed/static/css/main.dee6ebd3.css",
+    "main.js": "/anime-news-feed/static/js/main.891c956b.js",
     "index.html": "/anime-news-feed/index.html",
-    "main.21d83c50.css.map": "/anime-news-feed/static/css/main.21d83c50.css.map",
-    "main.4fd031e4.js.map": "/anime-news-feed/static/js/main.4fd031e4.js.map"
+    "main.dee6ebd3.css.map": "/anime-news-feed/static/css/main.dee6ebd3.css.map",
+    "main.891c956b.js.map": "/anime-news-feed/static/js/main.891c956b.js.map"
   },
   "entrypoints": [
-    "static/css/main.21d83c50.css",
-    "static/js/main.4fd031e4.js"
+    "static/css/main.dee6ebd3.css",
+    "static/js/main.891c956b.js"
   ]
 }
